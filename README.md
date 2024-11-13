@@ -142,7 +142,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LachlanMartin/LachlanMartin/output/snake.svg" alt="Snake animation" />
+<img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Pixel Animation" />
 
 ###
 
