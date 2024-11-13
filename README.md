@@ -1,3 +1,7 @@
+<h1 align="center">Lachlan Martin</h1>
+
+###
+
 <h1 align="center">Socials</h1>
 
 ###
@@ -25,12 +29,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LachlanMartin.LachlanMartin&"  />
 </div>
-
-###
-
-<h1 align="center">Lachlan Martin</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
