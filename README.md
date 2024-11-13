@@ -24,10 +24,7 @@
 
 ###
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <p align="left" style="flex: 1;">I'm a Software Engineer from Melbourne, Australia<br><br>- 🔭 I'm working as Quality Assurance and Automation<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I enjoy gym and catching up with friends</p>
-  <img align="right" src="https://github.com/LachlanMartin/LachlanMartin/blob/main/ReadMeGif.gif" height="200" alt="coding gif"/>
-</div>
+<p align="left" style="flex: 1;">I'm a Software Engineer from Melbourne, Australia<br><br>- 🔭 I'm working as Quality Assurance and Automation<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I enjoy gym and catching up with friends</p>
 
 ###
 
