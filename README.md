@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://ugc.production.linktr.ee/579a6d5c-c8e2-4e96-a9f3-4170ff04d7e4_PXL-20240901-225952545.jpeg?io=true&size=avatar-v3_0"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/lachlan-martin-19631b204/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
