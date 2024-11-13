@@ -24,7 +24,10 @@
 
 ###
 
-<p align="left" style="flex: 1;">I'm a Software Engineer from Melbourne, Australia<br>- 🔭 I'm working as Quality Assurance and Automation<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I enjoy gym and catching up with friends</p>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <p align="left" style="flex: 1; margin: 0;">I'm a Software Engineer from Melbourne, Australia<br><br>- 🔭 I'm working as Quality Assurance and Automation<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I enjoy gym and catching up with friends</p>
+  <img align="right" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" height="200" alt="coding gif"/>
+</div>
 
 ###
 
