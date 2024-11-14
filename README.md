@@ -121,4 +121,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LachlanMartin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="An animation of snake eating the github user contribuitions (like snake game)" class="styles__Image-sc-19ug73m-1 fFdGRd">
+
 ###
