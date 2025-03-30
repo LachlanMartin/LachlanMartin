@@ -20,11 +20,11 @@
   </a>
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left" style="flex: 1; margin: 0;">I'm a Software Engineer from Melbourne, Australia<br><br>- 🔭 I'm working as Quality Assurance and Automation<br>- 📚 I'm currently learning DevOps and SRE<br>- ⚡ In my free time I enjoy fitness and catching up with friends</p>
+<p align="left" style="flex: 1; margin: 0;">I'm a DevOps Engineer from Melbourne, Australia<br>
 
 ###
 
